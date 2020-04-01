@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TsSocket",
+	"Description": "Socket Communication With Python",
+	"Category": "Other",
+	"CreatedBy": "Tiger shan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TsSocket",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
